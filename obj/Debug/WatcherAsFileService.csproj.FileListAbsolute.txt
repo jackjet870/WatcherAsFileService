@@ -1,0 +1,12 @@
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\bin\Debug\WatcherAsFileService.exe.config
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\bin\Debug\WatcherAsFileService.exe
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\bin\Debug\WatcherAsFileService.pdb
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\obj\Debug\WatcherAsFileService.MonitoringService.resources
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\obj\Debug\WatcherAsFileService.ProjectInstaller.resources
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\obj\Debug\WatcherAsFileService.csproj.GenerateResource.Cache
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\obj\Debug\WatcherAsFileService.exe
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\obj\Debug\WatcherAsFileService.pdb
+E:\TFSRoot\tongkao\NewCD\Tools\CDIESetActiveX\WatcherAsFileService\obj\Debug\WatcherAsFileService.csprojResolveAssemblyReference.cache
+F:\迅雷下载\WatcherAsFileService\bin\Debug\WatcherAsFileService.exe.config
+F:\迅雷下载\WatcherAsFileService\obj\Debug\WatcherAsFileService.exe
+F:\迅雷下载\WatcherAsFileService\obj\Debug\WatcherAsFileService.pdb
